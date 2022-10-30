@@ -1,0 +1,6 @@
+project: filetype
+target: filetype
+
+cmds:
+  - cmd: /fuzz_newtype
+    env: {}
